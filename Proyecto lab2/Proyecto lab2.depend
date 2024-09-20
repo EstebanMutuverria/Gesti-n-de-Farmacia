@@ -1,0 +1,139 @@
+# depslib dependency file v1.0
+1714422369 source:c:\users\usuario\documents\utn\laboratorio 2\proyecto lab2\producto.cpp
+	<iostream>
+	"producto.h"
+	"funcionesGlobales.h"
+	"fecha.h"
+
+1714962124 source:c:\users\usuario\documents\utn\laboratorio 2\proyecto lab2\main.cpp
+	<iostream>
+	"app.h"
+
+1714965965 source:c:\users\usuario\documents\utn\laboratorio 2\proyecto lab2\productoarchivo.cpp
+	<iostream>
+	"productoArchivo.h"
+	"producto.h"
+
+1714968590 source:c:\users\usuario\documents\utn\laboratorio 2\proyecto lab2\productomanager.cpp
+	<iostream>
+	"rlutil.h"
+	"funcionesGlobales.h"
+	"producto.h"
+	"productoManager.h"
+
+1714938150 source:c:\users\usuario\documents\utn\laboratorio 2\proyecto lab2\funcionesglobales.cpp
+	<iostream>
+	"funcionesGlobales.h"
+
+1714955731 c:\users\usuario\documents\utn\laboratorio 2\proyecto lab2\producto.h
+	"fecha.h"
+
+1714968045 c:\users\usuario\documents\utn\laboratorio 2\proyecto lab2\productomanager.h
+	"productoArchivo.h"
+
+1714938150 c:\users\usuario\documents\utn\laboratorio 2\proyecto lab2\funcionesglobales.h
+	<iostream>
+	<cstring>
+
+1714955731 c:\users\usuario\documents\utn\laboratorio 2\proyecto lab2\productoarchivo.h
+	"producto.h"
+	<cstring>
+
+1714394985 source:c:\users\usuario\documents\utn\laboratorio 2\proyecto lab2\fecha.cpp
+	<iostream>
+	"fecha.h"
+
+1714394985 c:\users\usuario\documents\utn\laboratorio 2\proyecto lab2\fecha.h
+
+1714394985 source:c:\users\usuario\documents\github\proyectof\fecha.cpp
+	<iostream>
+	"fecha.h"
+
+1714394985 c:\users\usuario\documents\github\proyectof\fecha.h
+
+1714938150 source:c:\users\usuario\documents\github\proyectof\funcionesglobales.cpp
+	<iostream>
+	"funcionesGlobales.h"
+
+1714938150 c:\users\usuario\documents\github\proyectof\funcionesglobales.h
+	<iostream>
+	<cstring>
+
+1714962124 source:c:\users\usuario\documents\github\proyectof\main.cpp
+	<iostream>
+	"app.h"
+
+1714968045 c:\users\usuario\documents\github\proyectof\productomanager.h
+	"productoArchivo.h"
+
+1714955731 c:\users\usuario\documents\github\proyectof\productoarchivo.h
+	"producto.h"
+	<cstring>
+
+1714955731 c:\users\usuario\documents\github\proyectof\producto.h
+	"fecha.h"
+
+1714422369 source:c:\users\usuario\documents\github\proyectof\producto.cpp
+	<iostream>
+	"producto.h"
+	"funcionesGlobales.h"
+	"fecha.h"
+
+1714965965 source:c:\users\usuario\documents\github\proyectof\productoarchivo.cpp
+	<iostream>
+	"productoArchivo.h"
+	"producto.h"
+
+1714704999 c:\users\usuario\documents\github\proyectof\app.h
+	"productoManager.h"
+
+1714968431 source:c:\users\usuario\documents\github\proyectof\productomanager.cpp
+	<iostream>
+	"rlutil.h"
+	"funcionesGlobales.h"
+	"producto.h"
+	"productoManager.h"
+
+1714949257 source:c:\users\usuario\documents\github\proyectof\app.cpp
+	<iostream>
+	"funcionesGlobales.h"
+	"rlutil.h"
+	"app.h"
+
+1714839494 c:\users\usuario\documents\github\proyectof\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1714949257 source:c:\users\usuario\documents\utn\laboratorio 2\proyecto lab2\app.cpp
+	<iostream>
+	"funcionesGlobales.h"
+	"rlutil.h"
+	"app.h"
+
+1714839494 c:\users\usuario\documents\utn\laboratorio 2\proyecto lab2\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1714704999 c:\users\usuario\documents\utn\laboratorio 2\proyecto lab2\app.h
+	"productoManager.h"
+

@@ -1,0 +1,8 @@
+- carga de DetalleVentas: 
+1)cantidad
+2)producto
+3)nombre
+4)fecha
+5)horario
+-por detras va a ir sumando los importes de cada producto por la cantidad, y asi poder calcular el importe final.
+- Tambien va a contar con una opcion en la que el usuario una vez que termine de cargar todo el 
